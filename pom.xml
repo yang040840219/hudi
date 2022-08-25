@@ -1213,6 +1213,7 @@
 
     </dependencies>
   </dependencyManagement>
+  <!--
   <repositories>
     <repository>
       <id>Maven Central</id>
@@ -1240,7 +1241,7 @@
       <url>https://packages.confluent.io/maven/</url>
     </repository>
   </repositories>
-
+  -->
   <profiles>
     <profile>
       <id>release</id>
